@@ -4,4 +4,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-title: [KeepClear Playbook]
+title: [Always Clear]
+description: [O livro sempre em construção da da KeepClear]
