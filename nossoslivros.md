@@ -11,13 +11,12 @@ Ele serve a quatro principais propósitos:
 - Facilitar a construção contínua destas práticas, processos e princípios, permitindo a colaboração de todos diretamente no documento;
 - Expor para os que ainda não são membros da equipe KeepClear como funcionamos - para que eles possam nos entender melhor e avaliar se encaixamos juntos ;)
 
-## Contribuindo com os livros
-- Quem pode editar?
+## Quem pode editá-los?
 Os livros podem editados por *todos* os membros da equipe da KeepClear.
 
-- Como editar?
+## Como editá-los?
 Basta fazer um *commit* com as alterações necessárias. Após o commit, as alterações serão revisadas por um dos membros do Conselho Jedi. 
 
-- Formatação
+## Formatação
 
 Verificar referência em [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax).
