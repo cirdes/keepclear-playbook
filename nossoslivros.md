@@ -15,6 +15,9 @@ Ele serve a quatro principais propósitos:
 - Quem pode editar?
 Os livros podem editados por *todos* os membros da equipe da KeepClear.
 
-- Passo a passo da edição
+- Como editar?
+Basta fazer um *commit* com as alterações necessárias. Após o commit, as alterações serão revisadas por um dos membros do Conselho Jedi. 
 
 - Formatação
+
+Verificar referência em [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax).
