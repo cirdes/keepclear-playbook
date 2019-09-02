@@ -5,7 +5,7 @@ A melhor forma de fazer isso é documentar os nossos aprendizados e mantê-los e
 E justamente por isso, o Always Clear deve ser sempre um projeto em contínuo desenvolvimento, como a própria KeepClear sempre estará. Os livros da KeepClear estão e sempre estarão abertos, disponíveis para contribuições, sugestões, críticas e feedback, como aprendemos que todos devem sempre estar.
 
 
-# [Livro I - Sobre o Always Clear](https://emilianoabad.github.io/keepclear-playbook/nossoslivros.md)
+# [Livro I - Sobre o Always Clear](nossoslivros.md)
 ## O que são os livros?
 ## Contribuindo com os livros
 - Passo a passo de edição
